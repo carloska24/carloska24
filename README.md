@@ -2,7 +2,7 @@
 
 ## 🐍 Minhas Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/carloska24/carloska24/output/github-contribution-grid-snake.svg)
+![Pac-Man contribution graph](https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph.svg)
 
 💻 Desenvolvedor Backend em formação pela Escola SENAI "Dr. Celso Charuri"
 
