@@ -1,5 +1,9 @@
 # 👋 Olá, Meu nome é Carlos Alexandre Duarte Pereira!
 
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://github.com/carloska24/carloska24/blob/output/github-contribution-grid-snake.svg)
+
 💻 Desenvolvedor Backend em formação pela Escola SENAI "Dr. Celso Charuri"
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
