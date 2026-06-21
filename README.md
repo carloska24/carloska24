@@ -2,7 +2,7 @@
 
 ## 🐍 Minhas Contribuições
 
-![Snake animation](https://github.com/carloska24/carloska24/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/carloska24/carloska24/output/github-contribution-grid-snake.svg)
 
 💻 Desenvolvedor Backend em formação pela Escola SENAI "Dr. Celso Charuri"
 
