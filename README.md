@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou Carlos Pereira
 
-<!--
-**carloska24/carloska24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend em formação
 
-Here are some ideas to get you started:
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Estudando Java, Spring Boot e PostgreSQL
+
+🚀 Em busca da primeira oportunidade como Desenvolvedor Backend Jr
+
+---
+
+## 🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projeto em Destaque
+
+### Inventory Management API
+
+API REST desenvolvida com Spring Boot para gerenciamento de ativos de TI.
+
+🔗 Repositório:
+
+https://github.com/carloska24/inventory-management-api
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloska24&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloska24&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 carloska24@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com
+
+---
