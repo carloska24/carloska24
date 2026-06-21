@@ -1,6 +1,6 @@
 # 👋 Olá, Meu nome é Carlos Alexandre Duarte Pereira!
 
-## 🐍 Minhas Contribuições
+## 🎮 Minhas Contribuições
 
 ![Pac-Man contribution graph](https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph.svg)
 
