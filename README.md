@@ -1,9 +1,5 @@
 # 👋 Olá, Meu nome é Carlos Alexandre Duarte Pereira!
 
-## 🎮 Minhas Contribuições
-
-![Pac-Man contribution graph](https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph.svg)
-
 💻 Desenvolvedor Backend em formação pela Escola SENAI "Dr. Celso Charuri"
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
@@ -13,7 +9,10 @@
 🚀 Em busca da primeira oportunidade como Desenvolvedor Backend Jr
 
 ---
+## 🎮 Minhas Contribuições
 
+![Pac-Man contribution graph](https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph.svg)
+---
 ## 🚀 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
