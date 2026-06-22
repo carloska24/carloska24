@@ -52,6 +52,6 @@ https://github.com/carloska24/inventory-management-api
 📧 carloska24@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com
+[https://www.linkedin.com](https://www.linkedin.com/in/carlos-duarte-0b4591206)
 
 ---
