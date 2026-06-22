@@ -55,9 +55,3 @@ https://github.com/carloska24/inventory-management-api
 https://www.linkedin.com
 
 ---
-
-## 📊 Estatísticas GitHub
-
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloska24&show_icons=true&theme=tokyonight)
-![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloska24&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloska24&layout=compact&theme=transparent)
