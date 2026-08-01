@@ -1,6 +1,6 @@
 # 👋 Olá, Meu nome é Carlos Alexandre Duarte Pereira!
 
-💻 Desenvolvedor Backend em formação pela Escola SENAI "Dr. Celso Charuri"
+💻 Desenvolvedor Backend em formação pela Escola SENAI "Dr. Celso Charuri" (Em andamento)
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
