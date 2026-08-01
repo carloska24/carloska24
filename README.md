@@ -37,14 +37,13 @@ https://github.com/carloska24/inventory-management-api
 
 ## 📊 Estatísticas GitHub
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloska24&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloska24&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carloska24&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloska24&layout=compact&theme=tokyonight)
 
 ---
 
