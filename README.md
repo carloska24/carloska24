@@ -137,12 +137,9 @@ public class CarlosAlexandre {
 
 ---
 
-**Cursos técnicos complementares — SENAI Automobilístico Ipiranga**
+**Cursos complementares — Universidade Estadual de Campinas**
 
-- 🖥️ Técnico em Desenvolvimento Front-End *(2024)*
-- 🐍 Python Básico I *(2024)*
-- 📊 Power BI *(2024)*
-- ✏️ Técnico em Back-End *(2025)*
+- 🖥️ Uma Visão Moderna sobre Projeto de Placa de Circuito Impresso *
 
 ---
 
