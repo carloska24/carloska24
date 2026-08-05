@@ -118,10 +118,12 @@ public class CarlosAlexandre {
 ## 🎓 Formação Acadêmica e Técnica
 
 🎓 **Superior em Análise e Desenvolvimento de Sistemas**
+🏛️ **Centro Universitário UniMetrocamp Wyden**
 *Concluído em 05 de Setembro de 2025 — Campinas, SP*
 
 🚀 **Formação Desenvolvedor Backend** *(em andamento)*
-*Início: 01/08/2026 · Conclusão prevista: 19/12/2026 — SENAI "Dr. Celso Charuri"*
+🏫 **SENAI "Dr. Celso Charuri"**
+*Início: 01/08/2026 · Conclusão prevista: 19/12/2026*
 
 ---
 
