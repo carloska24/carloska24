@@ -49,29 +49,9 @@ public class CarlosAlexandre {
 ## 🚀 Tecnologias e Linguagens
 
 <div align="center">
-
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
-[![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,nestjs,postgres,mongodb&theme=dark&perline=8" />
+  </a>
 </div>
 
 ---
@@ -79,26 +59,18 @@ public class CarlosAlexandre {
 ## 🛠️ Ferramentas e Desenvolvimento
 
 <div align="center">
-
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
-[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-[![Maven](https://skillicons.dev/icons?i=maven&theme=dark)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,linux,maven,aws,actions,postman&theme=dark&perline=10" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Cursor AI"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </div>
 
 ---
