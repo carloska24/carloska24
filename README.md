@@ -60,14 +60,14 @@ public class CarlosAlexandre {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,linux,maven,aws,actions,postman&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,linux,maven,aws,githubactions,postman&theme=dark&perline=10" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Cursor AI"/>
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
