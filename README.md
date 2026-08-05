@@ -137,6 +137,15 @@ public class CarlosAlexandre {
 
 ---
 
+**Cursos técnicos complementares — SENAI Automobilístico Ipiranga**
+
+- 🖥️ Técnico em Desenvolvimento Front-End *(2024)*
+- 🐍 Python Básico I *(2024)*
+- 📊 Power BI *(2024)*
+- ✏️ Técnico em Back-End *(2025)*
+
+---
+
 ## 📚 Atualmente estudando
 
 - ☕ Java & Spring Boot
@@ -149,5 +158,16 @@ public class CarlosAlexandre {
 
 ---
 
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-duarte-0b4591206)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloska24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloska24)
+
+![Profile Views](https://komarev.com/ghpvc/?username=carloska24&color=0077B5&style=flat-square&label=Visualizações+do+Perfil)
+
 </div>
+
 
