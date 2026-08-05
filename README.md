@@ -125,7 +125,7 @@ public class CarlosAlexandre {
 
 ---
 
-**Cursos complementares — Universidade Estadual de Campinas**
+## 🏛️ Cursos complementares — Universidade Estadual de Campinas
 
 - 🔌 Uma Visão Moderna sobre Projeto de Placa de Circuito Impresso *
 
