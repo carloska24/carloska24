@@ -68,6 +68,7 @@ public class CarlosAlexandre {
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-1F2023?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity IDE"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
