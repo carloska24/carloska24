@@ -32,7 +32,7 @@ Graduação concluída em 5 de setembro de 2025 · Campinas, SP
 [![Faculdade SENAI-SP](https://img.shields.io/badge/Faculdade%20SENAI--SP-B32637?style=for-the-badge)](https://www.sp.senai.br/)
 
 **Faculdade SENAI-SP**  
-Pós-graduação
+Pós-graduação · Início em outubro de 2026 · Previsão de conclusão em abril de 2028
 
 ### Uma Visão Moderna sobre Projeto de Placa de Circuito Impresso
 
