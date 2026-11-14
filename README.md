@@ -1,133 +1,131 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:101B35,60:174D83,100:148A87&amp;height=125&amp;section=header" width="100%" alt="">
+</p>
 
-# 👋 Carlos Alexandre Duarte Pereira
+<h1 align="center">Carlos Alexandre Duarte Pereira</h1>
 
-**Backend Developer | Java • Spring Boot • Node.js • NestJS • TypeScript • PostgreSQL**
+<p align="center">
+  <strong>Desenvolvimento de Sistemas · Ciência de Dados · Eletrônica</strong>
+</p>
 
-> Desenvolvedor Backend em formação e evolução contínua, com graduação em Análise e Desenvolvimento de Sistemas e foco em APIs, aplicações backend e boas práticas de desenvolvimento.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-duarte-0b4591206)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloska24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloska24)
-
-</div>
-
----
-
-## 👨‍💻 Sobre Mim
-
-```java
-public class CarlosAlexandre {
-
-    String nome        = "Carlos Alexandre Duarte Pereira";
-    String localizacao = "Campinas - SP, Brasil";
-    String foco        = "Backend Developer";
-    String[] stack     = {
-        "Java", "Spring Boot",
-        "TypeScript", "Node.js", "NestJS",
-        "PostgreSQL", "Docker", "Git"
-    };
-
-    String objetivo() {
-        return "Primeira oportunidade como Desenvolvedor Backend Jr 🚀";
-    }
-}
-```
+<p align="center">
+  <a href="#formacao">Formação</a> ·
+  <a href="#estudos">Áreas de estudo</a> ·
+  <a href="#contribuicoes">Contribuições</a>
+</p>
 
 ---
 
-## 🎮 Minhas Contribuições
+<a id="formacao"></a>
 
-<div align="center">
+## 🎓 Formação
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph.svg)
+### Análise e Desenvolvimento de Sistemas
 
-</div>
+[![Centro Universitário UniMetrocamp Wyden](https://img.shields.io/badge/UniMetrocamp%20Wyden-23578C?style=for-the-badge)](https://wyden.com.br/)
 
----
+**Centro Universitário UniMetrocamp Wyden**  
+Graduação concluída em 5 de setembro de 2025 · Campinas, SP
 
-## 🚀 Tecnologias e Linguagens
+### Data Science e Big Data Aplicados na Indústria
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,nestjs,postgres,mongodb&theme=dark&perline=8" />
-  </a>
-</div>
+[![Faculdade SENAI-SP](https://img.shields.io/badge/Faculdade%20SENAI--SP-B32637?style=for-the-badge)](https://www.sp.senai.br/)
 
----
+**Faculdade SENAI-SP**  
+Pós-graduação
 
-## 🛠️ Ferramentas e Desenvolvimento
+### Uma Visão Moderna sobre Projeto de Placa de Circuito Impresso
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,linux,maven,aws,githubactions,postman&theme=dark&perline=10" />
-  </a>
-</div>
+[![Universidade Estadual de Campinas (Unicamp)](https://img.shields.io/badge/Unicamp-6B3BA3?style=for-the-badge)](https://www.unicamp.br/)
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
-  <img src="https://img.shields.io/badge/Antigravity_IDE-1F2023?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity IDE"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-</div>
+**Universidade Estadual de Campinas (Unicamp)**  
+Curso complementar
 
 ---
 
-## 📌 Projeto em Destaque
+<a id="estudos"></a>
 
-<div align="center">
+## 📚 Áreas de estudo
 
-| 🚀 Projeto | 📋 Descrição | 🛠️ Stack |
-|:-----------|:-------------|:---------|
-| [**Inventory Management API**](https://github.com/carloska24/inventory-management-api) | API REST para gerenciamento de ativos de TI em ambiente corporativo | Java · Spring Boot · PostgreSQL |
+### Ciência de dados e visualização
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38" alt="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="38" alt="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="38" alt="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="38" alt="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="38" alt="">
+</p>
+
+**Python · Jupyter · NumPy · Pandas · Matplotlib · Seaborn**
+
+Limpeza e preparação de dados, análise exploratória e visualização.
+
+### Machine Learning
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="">
+</p>
+
+**scikit-learn** · Classificação, agrupamento com K-Means e avaliação de modelos aplicados a dados de manutenção industrial.
+
+### Big Data e Business Intelligence
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="38" alt="">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" height="38" alt="">
+</p>
+
+**Apache Spark / PySpark** · Leitura, filtragem e agregação de dados em ambiente local.  
+**Power BI** · Estudos de análise de dados e Business Intelligence.
+
+### Desenvolvimento de software
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,js,ts,react,vite,nodejs,postgres&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,vite,nodejs,postgres&amp;theme=light" alt="">
+  </picture>
+  <br>
+  Java · JavaScript · TypeScript · React · Vite · Node.js · PostgreSQL
+</p>
+
+### Ambiente e controle de versão
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,ubuntu,linux,docker,git,github&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=vscode,ubuntu,linux,docker,git,github&amp;theme=light" alt="">
+  </picture>
+  <br>
+  VS Code · Ubuntu · Linux · Docker · Git · GitHub
+</p>
+
+### Ferramentas de IA para programação
+
+<p align="center">
+  <img src="https://cursor.com/marketing-static/_next/image?dpl=dpl_DhFYbstttMh5KKfwX6j9V9GdkKet&amp;q=70&amp;url=%2Fmarketing-static%2Fdownload%2Fapp-icon-3d-light.png&amp;w=3840" width="36" height="36" alt="Cursor">
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" height="36" alt="Codex">
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg" height="36" alt="Antigravity">
+  <br>
+  Cursor · Codex · Antigravity
+</p>
+
+### Eletrônica e projeto de PCBs
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-28251F?style=for-the-badge&logo=altiumdesigner&logoColor=E6C466)
+
+Projeto de placas de circuito impresso.
 
 ---
 
-## 🎓 Formação Acadêmica e Técnica
+<a id="contribuicoes"></a>
 
-🎓 **Superior em Análise e Desenvolvimento de Sistemas**
-🏛️ **Centro Universitário UniMetrocamp Wyden**
-*Concluído em 05 de Setembro de 2025 — Campinas, SP*
+## 🎮 Contribuições
 
-🚀 **Formação Desenvolvedor Backend** *(em andamento)*
-🏫 **SENAI "Dr. Celso Charuri"**
-*Início: 01/08/2026 · Conclusão prevista: 19/12/2026*
-
----
-
-## 🏛️ Cursos complementares — Universidade Estadual de Campinas
-
-- 🔌 Uma Visão Moderna sobre Projeto de Placa de Circuito Impresso *
-
----
-
-## 📚 Atualmente estudando
-
-- ☕ Java & Spring Boot
-- 🔷 TypeScript
-- 🟢 Node.js / NestJS
-- 🗄️ PostgreSQL
-- 🐳 Docker
-- 🏗️ Arquitetura de Software
-- 🧪 APIs REST e Testes
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-duarte-0b4591206)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloska24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloska24)
-
-![Profile Views](https://komarev.com/ghpvc/?username=carloska24&color=0077B5&style=flat-square&label=Visualizações+do+Perfil)
-
-</div>
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/carloska24/carloska24/output/pacman-contribution-graph.svg" alt="Calendário de contribuições no GitHub animado com Pac-Man">
+  </picture>
+</p>
