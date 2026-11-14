@@ -64,10 +64,16 @@ Limpeza e preparação de dados, análise exploratória e visualização.
 ### Machine Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="112" height="112" alt="scikit-learn">
 </p>
 
-**scikit-learn** · Classificação, agrupamento com K-Means e avaliação de modelos aplicados a dados de manutenção industrial.
+**scikit-learn** · Modelos aplicados a dados de manutenção industrial.
+
+| Tema | Estudos |
+| :--- | :--- |
+| **Classificação** | Árvore de decisão, Random Forest e regressão logística |
+| **Agrupamento** | K-Means |
+| **Avaliação de modelos** | Comparação de modelos e métrica F1 |
 
 ### Big Data e Business Intelligence
 
