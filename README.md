@@ -82,10 +82,13 @@ Limpeza e preparação de dados, análise exploratória e visualização.
 ### Desenvolvimento de software
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,js,ts,react,vite,nodejs,postgres&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,react,vite,nodejs,postgres&amp;theme=light" alt="">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="">
   <br>
   Java · JavaScript · TypeScript · React · Vite · Node.js · PostgreSQL
 </p>
@@ -93,10 +96,12 @@ Limpeza e preparação de dados, análise exploratória e visualização.
 ### Ambiente e controle de versão
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,ubuntu,linux,docker,git,github&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=vscode,ubuntu,linux,docker,git,github&amp;theme=light" alt="">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=ubuntu&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" height="48" alt="">
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="">
   <br>
   VS Code · Ubuntu · Linux · Docker · Git · GitHub
 </p>
@@ -104,9 +109,9 @@ Limpeza e preparação de dados, análise exploratória e visualização.
 ### Ferramentas de IA para programação
 
 <p align="center">
-  <img src="https://cursor.com/marketing-static/_next/image?dpl=dpl_DhFYbstttMh5KKfwX6j9V9GdkKet&amp;q=70&amp;url=%2Fmarketing-static%2Fdownload%2Fapp-icon-3d-light.png&amp;w=3840" width="36" height="36" alt="Cursor">
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" height="36" alt="Codex">
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg" height="36" alt="Antigravity">
+  <img src="https://cursor.com/marketing-static/_next/image?dpl=dpl_DhFYbstttMh5KKfwX6j9V9GdkKet&amp;q=70&amp;url=%2Fmarketing-static%2Fdownload%2Fapp-icon-3d-light.png&amp;w=3840" width="40" height="40" alt="Cursor">
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="40" height="40" alt="Codex">
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg" width="40" height="40" alt="Antigravity">
   <br>
   Cursor · Codex · Antigravity
 </p>
