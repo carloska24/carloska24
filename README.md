@@ -64,7 +64,7 @@ Limpeza e preparação de dados, análise exploratória e visualização.
 ### Machine Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="112" height="112" alt="scikit-learn">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="56" height="56" alt="scikit-learn">
 </p>
 
 **scikit-learn** · Modelos aplicados a dados de manutenção industrial.
